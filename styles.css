@@ -1,0 +1,20 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+background-color: #050508;
+overflow: hidden;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+font-family: 'Courier New', monospace;
+}
+#scrim{
+display: block;
+background-color: #0a0a12;
+image-rendering: pixelated;
+cursor: crosshair;
+}
