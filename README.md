@@ -4,10 +4,10 @@
 
 **Controls:**
 
-1.WASD: Navigate your ship through the infinitely generating aether.
-2.Left Click (Hold): Shoot projectiles.
-3.Spacebar: Release aether mass from your body. This shrinks your size and makes you move much faster, but decreases your shooting rate.
-4.Shift: Dash to quickly evade enemies (has a cooldown).
+1.WASD: Navigate your ship through the infinitely generating aether.<br>
+2.Left Click (Hold): Shoot projectiles.<br>
+3.Spacebar: Release aether mass from your body. This shrinks your size and makes you move much faster, but decreases your shooting rate.<br>
+4.Shift: Dash to quickly evade enemies (has a cooldown).<br>
 
 Survive as long as possible. The enemies will spawn in increasing numbers as the waves progress.
 
