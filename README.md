@@ -1,4 +1,4 @@
-#Aether-Drifter
+# Aether-Drifter
 
 **Aether-Drifter is a slow-paced spaceship survival game built from scratch using HTML Canvas and JavaScript. You spawn as a ship in the aether and must blast your way through endless waves of enemies to achieve a high score. The enemies come in multiple varieties, each with distinct movement and attack patterns. The core of the game is a dynamic risk-reward system: growing larger increases your rate of fire, but it also increases your hitbox, making you much more vulnerable to enemy attacks.**
 
